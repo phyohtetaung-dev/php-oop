@@ -1,7 +1,8 @@
 {
     "autoload": {
         "psr-4": {
-            "Acme\\": "namespace"
+            "Acme\\": "namespace",
+            "Bcme\\": "scope-and-context"
         }
     }
 }
