@@ -24,7 +24,7 @@ class ComposerStaticInit31e37e0c283c127c73d203c4c6dba65c
         ),
         'Acme\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/namespace',
+            0 => __DIR__ . '/../..' . '/namespace-and-messages',
         ),
     );
 

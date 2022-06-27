@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Bcme\\' => array($baseDir . '/scope-and-context'),
-    'Acme\\' => array($baseDir . '/namespace'),
+    'Acme\\' => array($baseDir . '/namespace-and-messages'),
 );
