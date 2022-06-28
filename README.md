@@ -1,10 +1,10 @@
 # PHP Object Oriented Programming
 
-## Sample examples including:
+## Agenda
 
 1. Classes
 2. Getters and Setters
-3. Inheritance
+3. Inheritance and Abstract
 4. Namespaces/Autoloading and Messages
 5. Interface
 6. Scope and Context
